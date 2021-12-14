@@ -1,4 +1,4 @@
-~spri~  ~sper~
+==spri==   ==sper==
 
 ### spir : to breathe(呼吸)
 
@@ -25,19 +25,19 @@
 ### ex-: 向外, 除去
 
 * expire  v 期满; 终止; 到期; (文学)死亡
-        * My contract/ driving license /visa expires next month  (我的合同/驾照/签证下个月到期)
+       * My contract/ driving license /visa expires next month 
+            *  (我的合同/驾照/签证下个月到期)
             * This yogurt expires next month  (这瓶酸奶,下个月🇨🇳)
-            * He finally expired   (它已经离世, 大限已至)
-    
+            * he finally expired   (它已经离世, 大限已至)
 * expiration n/ 呼气; 终结 
-        * a few hours before the expiration  在过期前的几个小时
+    *   a few hours before the expiration  在过期前的几个小时
 ### con- : 共同
 
 * conspire     v 共谋; 协力
       *  A and B conspire to do = A = A conspires whit B to do 
 
 * conspirator  n 阴谋者; 反叛者; 同谋者
-      
+  
 * conspiracy   n 阴谋; 共谋; 阴谋集团;
 
 ### a- : 加强 
