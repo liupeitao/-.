@@ -40,7 +40,7 @@
 * financial   adj 金融的; 财政的;
   * financial service (support ) $ 金融服务.
   * financial difficulties       $ 财务困境
- 
+
 * financially adv 财政上
   * she is still financially dependent on her parent.
     $ 他在经济上依然依靠父母,
@@ -71,7 +71,7 @@
      $ 空间的无限.
   * the infinity stones .
      $ 无限宝石 
- 
+
 * con-fine   v 限制; 禁闭 n 边界; 范围.  囚 困(具体)
   * the river is confined in a narrow channel .
     $ 这条河在这里流入狭窄的河床.
@@ -96,7 +96,8 @@
     $ 你对幸福的定义是什么.
 
 -----
-### summary 
+### summary
+
 final     finish  finance  financial fine    refine 
 finite infinite infinity   confine define confinement 
 undefined definite definition 
