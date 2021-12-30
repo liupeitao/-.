@@ -1,0 +1,12 @@
+mac os  mysql 启动的一些错误.
+
+ 1788  mysql -u liupeitao -p
+ 1789  mysql -u root -p
+ 1790  sudo /usr/local/mysql/support-files/mysql.server start
+ 1791  sudo chmod -R a+rwx /usr/local/mysql/data/\n
+ 1792  sudo usr/local/mysql/support-files/mysql.server start\n
+ 1793  sudo /usr/local/mysql/support-files/mysql.server start
+ 1794  sudo mysql.server restart
+ 1795  mysql
+ 1796  mysql -u root -p liupeitao
+ 1797  mysql -u root -pliupeitao
